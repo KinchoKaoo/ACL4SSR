@@ -5,4 +5,5 @@ DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,linphone.org
 #TCG 需要代理 域名
