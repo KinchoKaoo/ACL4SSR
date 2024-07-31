@@ -4,4 +4,6 @@
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,pgaides.com
+DOMAIN,codex.micosoft.icu
+DOMAIN,api.github.com
 #TCG 需要直连 域名
