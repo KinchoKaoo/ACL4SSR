@@ -25,6 +25,5 @@ DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,一分机场.com
 DOMAIN-SUFFIX,一元机场.com
 DOMAIN-SUFFIX,inedo.com
-DOMAIN-SUFFIX,plex.tv,PROXY
-DOMAIN,v4.plex.tv,DIRECT
+DOMAIN-SUFFIX,plex.tv
 #TCG 需要代理 域名
