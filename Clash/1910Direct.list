@@ -1,7 +1,7 @@
 #TCG 需要直连 域名
 #例如 结尾无需逗号、分号
 #DOMAIN-SUFFIX,iahri.cn
-DOMAIN-SUFFIX,plex.tv
+DOMAIN,v4.plex.tv
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,pgaides.com
 DOMAIN,codex.micosoft.icu
